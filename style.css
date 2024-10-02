@@ -53,3 +53,14 @@ h1{
 #que-heading{
     margin: 10px;
 }
+@media (max-width:600px){
+    .app{
+    width: auto;
+    margin:0px;
+    height: auto;
+}
+    .btn{
+    width: auto;
+    margin: 0px;
+}
+}
